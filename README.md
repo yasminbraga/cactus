@@ -2,7 +2,7 @@
 
 Cactus is a app to monitor your plants.
 
-![](cactus.gif)
+![](cactusVideo.gif)
 
 ## Technologies
 
