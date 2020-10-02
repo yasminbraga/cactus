@@ -22,3 +22,5 @@ To install all dependencies, in the project directory, run:
 To initialize the project run:
 
 ``` expo start ```
+
+Made with :heart: by [Yasmin Braga](https://github.com/yasminbraga)
